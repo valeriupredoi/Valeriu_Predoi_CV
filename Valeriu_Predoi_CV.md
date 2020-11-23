@@ -1,8 +1,21 @@
 Curriculum Vitae Dr. Valeriu Predoi
 ===================================
 
-Personal Data
--------------
+![vp](https://github.com/valeriupredoi/Valeriu_Predoi_CV/blob/main/images/vp.png)
+
+Table of Contents
+-----------------
+
+* [Personal](#Personal)
+* [Work](#Work)
+* [Education](#Education)
+* [Honors](#Honors)
+* [Skills](#Skills)
+* [Papers](#Papers)
+
+Personal
+--------
+
 - Address: Harry Pitt 103, Meteorology, University of Reading, Reading RG6 6BB, UK
 - E-mail: valeriu.predoi@ncas.ac.uk
 - GitHub: https://github.com/valeriupredoi
@@ -10,8 +23,9 @@ Personal Data
 - Google Scholar: https://scholar.google.co.uk/citations?user=n4GXtW4AAAAJ&hl=en
 - 500px: https://500px.com/p/valeriupredoi
 
-Work Experience
----------------
+Work
+----
+
 - **04/2014 - 11/2016 Senior Postdoctoral Research Associate**
   - Institution: School of Physics and Astronomy, Cardiff University, Cardiff, UK
   - Role: scientific and computational research in gravitational waves
@@ -39,6 +53,7 @@ Work Experience
 
 Education
 ---------
+
 - **09/2008 - 09/2012 PhD**, Cardiff University, Cardiff, UK, supervisor: Prof. S. Fairhurst
   Research: gravitational waves astrophysics and data analysis. Thesis title: “Gravita-
   tional waves and short gamma ray bursts”. Formal defense: September 5, 2012
@@ -48,8 +63,9 @@ Education
 - **09/2003 - 12/2006 BSc**, Jacobs University, Bremen, Germany, tutor: Dr. S. Rosswog
   Major: Geosciences and Astrophysics; Minor: Physics (GPA: B+ or 2.0(=B+)/1.0(=A+))
 
-Selected Honors and Awards
---------------------------
+Honors
+------
+
 - BigDat 2021 workshop on data science invited lecturer
 - Employee excellence award, University of Reading
 - Breakthrough Prize (together with the entire LIGO Collaboration)
@@ -82,8 +98,9 @@ Skills
   - waveform models and signal extraction from noise using matched filters
   - statistical tests 
 
-4Curriculum Vitae - Dr. Valeriu Predoi
-Selected Publication List
+Papers
+------
+
 • (in progress, semi-mature draft, internal link)
 “All-sky search for long duration gravitational-wave transients in the first Advanced LIGO run”
 https://dcc.ligo.org/LIGO-P1600277
