@@ -129,19 +129,23 @@ Papers
 - Righi, M., Andela, B., Eyring, V., Lauer, A., Predoi, V., Schlund, M., Vegas-Regidor, J., Bock, L., Brötz, B., de Mora, L., Diblen, F., Dreyer, L., Drost, N., Earnshaw, P., Hassler, B., Koldunov, N., Little, B., Loosveldt Tomas, S., and Zimmermann, K.
   "ESMValTool v2.0 - Technical overview"
   Geosci. Model Dev., 13, 1179-1199
-  doi: 10.5194/gmd-13-1179-2020, 2020.
+  doi: 10.5194/gmd-13-1179-2020, 2020
+  https://gmd.copernicus.org/articles/13/1179/2020/
 - Eyring, V., Bock, L., Lauer, A., Righi, M., Schlund, M., Andela, B., Arnone, E., Bellprat, O., Brötz, B., Caron, L.-P., Carvalhais, N., Cionni, I., Cortesi, N., Crezee, B., Davin, E., Davini, P., Debeire, K., de Mora, L., Deser, C., Docquier, D., Earnshaw, P., Ehbrecht, C., Gier, B. K., Gonzalez-Reviriego, N., Goodman, P., Hagemann, S., Hardiman, S., Hassler, B., Hunter, A., Kadow, C., Kindermann, S., Koirala, S., Koldunov, N., Lejeune, Q., Lembo, V., Lovato, T., Lucarini, V., Massonnet, F., Müller, B., Pandde, A., Pérez-Zanón, N., Phillips, A., Predoi, V., Russell, J., Sellar, A., Serva, F., Stacke, T., Swaminathan, R., Torralba, V., Vegas-Regidor, J., von Hardenberg, J., Weigel, K., and Zimmermann, K.
   "Earth System Model Evaluation Tool (ESMValTool) v2.0 - an extended set of large-scale diagnostics for quasi-operational and comprehensive evaluation of Earth system models in CMIP"
   Geosci. Model Dev., 13, 3383-3438
-  doi: 10.5194/gmd-13-3383-2020, 2020.
+  doi: 10.5194/gmd-13-3383-2020, 2020
+  https://gmd.copernicus.org/articles/13/3383/2020/
 - Weigel, K., Bock, L., Gier, B. K., Lauer, A., Righi, M., Schlund, M., Adeniyi, K., Andela, B., Arnone, E., Berg, P., Caron, L.-P.,  Cionni, I., Corti, S., Drost, N., Hunter, A., Lledó, L., Mohr, W. C., Paçal, A., Pérez-Zanón, N., Predoi, V., Sandstad, M., Sillmann, J., Sterl, A., Vegas-Regidor, J., von Hardenberg, J., and Eyring, V.
   "Earth System Model Evaluation Tool (ESMValTool) v2.0 - diagnostics for extreme events, regional and impact evaluation and analysis of Earth system models in CMIP"
   Geosci. Model Dev. Discuss.
   doi: 10.5194/gmd-2020-244 (in review)
+  https://gmd.copernicus.org/preprints/gmd-2020-244/
 - Bock, Lauer, A., Schlund, M., Barreiro, M., Bellouin, N., Jones, C., Meehl, G. A., Predoi, V., Roberts, M. J., and Eyring, V.
   "Quantifying progress across different CMIP phases with the ESMValTool"
   J. Geophys. Res., 125, e2019JD032321
   doi: 10.1029/2019JD032321, 2020
+  https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JD032321
 - B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration)
   “Search for gravitational waves associated with gamma-ray bursts during the First Advanced LIGO
   Observing Run and implications for the Origin of GRB 150906B”
@@ -151,6 +155,7 @@ Papers
   "UKESM1: Description and Evaluation of the U.K. Earth System Model"
   Journal Of Advances In Modeling Earth Systems, 11 (12), 4513-4558
   doi:10.1029/2019ms001739 2019
+  https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001739
 - B.P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration)
   “Observation of Gravitational Waves from a Binary Black Hole Merger”
   Phys. Rev. Lett., 116, 061102 Published 11 February 2016
