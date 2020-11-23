@@ -30,6 +30,25 @@ Personal
 Work
 ----
 
+- **04/2017 - present Research Scientist**
+  - Institution: NCAS-CMS, University of Reading, Reading, UK
+  - Role:
+    - scientific software engineer
+    - UKESM core developer https://ukesm.ac.uk/
+    - ESMValTool core developer https://github.com/ESMValGroup and https://www.esmvaltool.org/
+    Providing advanced scientific software solutions in the service of climate scientists
+  - Project management: core technical lead ESMValCore software package,
+    core technical lead ESMValTool software package,
+    core developer in the ESMValGroup project,
+    IPCC AR6 corresponding author, UKESM core developer,
+    Met Office Climate Data Dissemination System developer, CEDA/JASMIN
+    group workspace administrator, Met Office collaborator on evaluation tools for climate models
+    (Autoassess), various developments of analysis tools for NCAS scientists
+  - Other tasks: provide continuous support for ESMValTool's integration as the standard for
+    climate model evaluation (online tutorials, in-situ tutorials and seminars); support for
+    NCAS colleagues at Reading; helpdesk mailing list administrator
+  - Projects: MAGIC (past), CRESCENDO and ISENES3 (current)
+  - Line manager: Dr. G. M. S. Lister
 - **04/2014 - 11/2016 Senior Postdoctoral Research Associate**
   - Institution: School of Physics and Astronomy, Cardiff University, Cardiff, UK
   - Role: scientific and computational research in gravitational waves
@@ -52,20 +71,20 @@ Work
   - Institution: Cardiff University, Cardiff, UK
   - Role: scientific and computational research in gravitational waves
   - Project management: project lead, gravitational waves signals associated
-    with gamma-ray bursts detected by the InterPlanetary Network. Objective:
+    with gamma-ray bursts detected by the InterPlanetary Network (IPN)
   - Line manager: Prof. Stephen Fairhurst
 
 Education
 ---------
 
 - **09/2008 - 09/2012 PhD**, Cardiff University, Cardiff, UK, supervisor: Prof. S. Fairhurst
-  Research: gravitational waves astrophysics and data analysis. Thesis title: “Gravita-
-  tional waves and short gamma ray bursts”. Formal defense: September 5, 2012
+  Research: gravitational waves astrophysics and data analysis.
+  Thesis title: “Gravitational waves and short gamma ray bursts”. Formal defense: September 5, 2012
   (defense result: pass with minimum corrections)
 - **03/2007 - 09/2008 MSc**, Université de Montréal, Montréal, Canada, supervisor: Prof. P. Bastien
   Research: Polarimetry and Submillimetre Astronomy with SCUBA-2/POL camera
 - **09/2003 - 12/2006 BSc**, Jacobs University, Bremen, Germany, tutor: Dr. S. Rosswog
-  Major: Geosciences and Astrophysics; Minor: Physics (GPA: B+ or 2.0(=B+)/1.0(=A+))
+  Major: Geosciences and Astrophysics; Minor: Physics (GPA: B+ or 2.0(=B+)/1.0(=A+), reverse US scale)
 
 Honors
 ------
@@ -87,10 +106,10 @@ Skills
   - full software package cycle:
     - design: scientific software specififications and standards
     - development (Python (with Dask, sci- and numerical libraries, MPI), C, Matlab, R, julia)
-      with coding standards (pep8/pylint) on shared dev platforms (mostly GitHub)
+      with coding standards (PEP8/Pylint) on shared dev platforms (mostly `git`, also `svn`)
     - environment integration and dependency tree automation (Anaconda, PyPi)
-    - testing and CI (pytest, Github Actions, CircleCI, TravisCI)
-    - automation (workflows, schedulers, Github Actions, Docker)
+    - testing and CI (Pytest, Github Actions, CircleCI, TravisCI)
+    - automation (workflows, schedulers, Github Actions, Docker containers)
     - performance analysis (debuggers, serial and parallel optimiziation, I/O optimization)
     - deployment (on HPC's as modules, release schedules and actual releases)
   - software package support: Github issues, pull requests, HPC helpdesk, tutorials, workshops
@@ -128,6 +147,10 @@ Papers
   Observing Run and implications for the Origin of GRB 150906B”
   The Astrophysical Journal, Volume 841, Number 2, 2017
   https://iopscience.iop.org/article/10.3847/1538-4357/aa6c47
+- Sellar, Alistair; Jones, Colin G.; Mulcahy, Jane; Tang, Yongming; Yool, Andrew; Wiltshire, Andy; O'Connor, Fiona; Stringer, Marc; Hill, Richard; Palmieri, Julien; Woodward, Stephanie; de Mora, Lee; Kuhlbrodt, T.; Rumbold, Steven T.; Kelley, Douglas I.; Ellis, Rich; Johnson, Colin E.; Walton, Jeremy; Abraham, NL; Andrews, Martin B.; Andrews, Timothy; Archibald, A. T.; Berthou, Ségolène; Burke, Eleanor; Blockley, Ed; Carslaw, Ken; Dalvi, Mohit; Edwards, John; Folberth, Gerd A.; Gedney, Nicola; Griffiths, Paul; Harper, Anna B.; Hendry, Maggie A.; Hewitt, Alan J.; Johnson, Ben T.; Jones, Andy; Jones, Chris D.; Keeble, James; Liddicoat, Spencer; Morgenstern, Olaf; Parker, Rob J.; Predoi, Valeriu; Robertson, Eddy; Siahaan, Antony; Smith, Robin S.; Smith, Robin; Woodhouse, Matthew T.; Zengast, Guang; Zerroukat, Mohamed
+  "UKESM1: Description and Evaluation of the U.K. Earth System Model"
+  Journal Of Advances In Modeling Earth Systems, 11 (12), 4513-4558
+  doi:10.1029/2019ms001739 2019
 - B.P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration)
   “Observation of Gravitational Waves from a Binary Black Hole Merger”
   Phys. Rev. Lett., 116, 061102 Published 11 February 2016
