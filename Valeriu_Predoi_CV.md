@@ -1,7 +1,7 @@
 Curriculum Vitae Dr. Valeriu Predoi
 ===================================
 
-![vp](https://github.com/valeriupredoi/Valeriu_Predoi_CV/blob/main/images/vp.png)
+![vp](https://github.com/valeriupredoi/Valeriu_Predoi_CV/blob/main/images/vp.jpg)
 
 Table of Contents
 -----------------
