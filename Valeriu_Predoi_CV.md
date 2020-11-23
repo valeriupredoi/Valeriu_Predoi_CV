@@ -35,7 +35,7 @@ Work
     - scientific software engineer
     - UKESM core developer https://ukesm.ac.uk/
     - ESMValTool core developer https://github.com/ESMValGroup and https://www.esmvaltool.org/
-    Providing advanced scientific software solutions in the service of climate scientists
+    - description: providing advanced scientific software solutions in the service of climate scientists
   - Project management: core technical lead ESMValCore software package,
     core technical lead ESMValTool software package,
     core developer in the ESMValGroup project,
