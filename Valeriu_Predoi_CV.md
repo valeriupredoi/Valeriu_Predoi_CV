@@ -1,3 +1,6 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 Curriculum Vitae Dr. Valeriu Predoi
 ===================================
 
@@ -96,66 +99,58 @@ Skills
   - Bayesian parameter estimation methods, Monte Carlo
   - maximum likelihood estimators for non-linear systems
   - waveform models and signal extraction from noise using matched filters
-  - statistical tests 
+  - statistical tests
+- Languages: English (first language since 2003), Romanian (mother tongue),
+  French (fluent-ish), Italian (reading well, basic spoken), German (can order a beer)
 
 Papers
 ------
 
-• (in progress, semi-mature draft, internal link)
-“All-sky search for long duration gravitational-wave transients in the first Advanced LIGO run”
-https://dcc.ligo.org/LIGO-P1600277
-• (in progress, final circulation, expected on arXiv end November, internal link)
-“Search for gravitational waves associated with gamma-ray bursts during the First Advanced LIGO
-Observing Run and implications for the Origin of GRB 150906B”
-https://dcc.ligo.org/LIGO-P1600298
-• B.P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration)
-“Observation of Gravitational Waves from a Binary Black Hole Merger”
-Phys. Rev. Lett., 116, 061102 Published 11 February 2016
-http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102
-• A.R. Williamson, C. Biwer, S. Fairhurst, I.W. Harry, E. Macdonald, D. Macleod, and V. Predoi
-“Improved methods for detecting gravitational waves associated with short gamma-ray bursts”
-Phys. Rev. D, 90, 122004, 2014
-http://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.122004
-• V. Predoi
-“Estimating viral infection parameters using Markov Chain Monte Carlo simulations”,
-http://arxiv.org/abs/1501.07850
-• J. Aasi et al., (for LIGO Scientific Collaboration and Virgo Collaboration, the IPN and NASA/Fermi
-Gamma-ray Telescopes collaborations)
-“Search for Gravitational Waves Associated with γ-ray Bursts Detected by the Interplanetary Network”,
-Phys. Rev. Lett., 113, 011102, 2014
-http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.011102
-• V. Predoi
-“Gravitational Waves and Short Gamma Ray Bursts”, Ph.D. thesis
-Cardiff University, Cardiff, UK, November 2012
-http://orca.cf.ac.uk/39987/
-• V. Predoi for LIGO Scientific Collaboration and Virgo Collaboration and K. Hurley,
-“Search for gravitational waves associated with the InterPlanetary Network short gamma ray bursts”,
-Journal of Physics: Conference Series, Volume 363, Number 1, 2012,
-http://stacks.iop.org/1742-6596/363/i=1/a=012034
-• V. Predoi et al.,
-“Prospects for joint radio telescope and gravitational-wave searches for astrophysical transients”,
-Classical and Quantum Gravity, Volume 27, Number 8, 2010,
-http://iopscience.iop.org/0264-9381/27/8/084018
-5Curriculum Vitae - Dr. Valeriu Predoi
-• B. Abbott et al. (LIGO Scientific Collaboration, Virgo Collaboration),
-“Search for gravitational-wave inspiral signals associated with short Gamma-Ray Bursts
-during LIGO’s fifth and Virgo’s first science run”,
-The Astrophysical Journal, Volume 715, Number 2, 2010.
-http://iopscience.iop.org/0004-637X/715/2/1453/
-• Briggs, M.S. et al. (LIGO Scientific Collaboration, Virgo Collaboration),
-“Search for gravitational waves associated with gamma-ray bursts
-during LIGO science run 6 and Virgo science runs 2 and 3”,
-The Astrophysical Journal, Volume 760, Number 1, 2012,
-http://iopscience.iop.org/0004-637X/760/1/12/
-• Abadie, J. et. al. (LIGO Scientific Collaboration, Virgo Collaboration)
-“Search for Gravitational Waves from Low Mass Compact Binary Coalescence in LIGO’s Sixth Science
-Run and Virgo’s Science Runs 2 and 3”
-Phys.Rev. D, 85, 082002, 2012
-http://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.082002
-Other publications and media articles
-• Full publication list available here:
-http://scholar.google.ca/citations?user=n4GXtW4AAAAJ&hl=en
-• News feature on the first direct detection of gravitational waves,
-Jacobs University Bremen, February 2016
-https://www.jacobs-university.de/news/jacobs-university-alumnus-participated-discovery-gravitational-waves
-6
+- B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration)
+  “Search for gravitational waves associated with gamma-ray bursts during the First Advanced LIGO
+  Observing Run and implications for the Origin of GRB 150906B”
+  The Astrophysical Journal, Volume 841, Number 2, 2017
+  https://iopscience.iop.org/article/10.3847/1538-4357/aa6c47
+- B.P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration)
+  “Observation of Gravitational Waves from a Binary Black Hole Merger”
+  Phys. Rev. Lett., 116, 061102 Published 11 February 2016
+  http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102
+- A.R. Williamson, C. Biwer, S. Fairhurst, I.W. Harry, E. Macdonald, D. Macleod, and V. Predoi
+  “Improved methods for detecting gravitational waves associated with short gamma-ray bursts”
+  Phys. Rev. D, 90, 122004, 2014
+  http://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.122004
+- V. Predoi
+  “Estimating viral infection parameters using Markov Chain Monte Carlo simulations”,
+  http://arxiv.org/abs/1501.07850
+- J. Aasi et al., (for LIGO Scientific Collaboration and Virgo Collaboration, the IPN and NASA/Fermi
+  Gamma-ray Telescopes collaborations)
+  “Search for Gravitational Waves Associated with γ-ray Bursts Detected by the Interplanetary Network”,
+  Phys. Rev. Lett., 113, 011102, 2014
+  http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.011102
+- V. Predoi
+  “Gravitational Waves and Short Gamma Ray Bursts”, Ph.D. thesis
+  Cardiff University, Cardiff, UK, November 2012
+  http://orca.cf.ac.uk/39987/
+- V. Predoi for LIGO Scientific Collaboration and Virgo Collaboration and K. Hurley,
+  “Search for gravitational waves associated with the InterPlanetary Network short gamma ray bursts”,
+  Journal of Physics: Conference Series, Volume 363, Number 1, 2012,
+  http://stacks.iop.org/1742-6596/363/i=1/a=012034
+- V. Predoi et al.,
+  “Prospects for joint radio telescope and gravitational-wave searches for astrophysical transients”,
+  Classical and Quantum Gravity, Volume 27, Number 8, 2010,
+  http://iopscience.iop.org/0264-9381/27/8/084018
+- B. Abbott et al. (LIGO Scientific Collaboration, Virgo Collaboration),
+  “Search for gravitational-wave inspiral signals associated with short Gamma-Ray Bursts
+  during LIGO’s fifth and Virgo’s first science run”,
+  The Astrophysical Journal, Volume 715, Number 2, 2010.
+  http://iopscience.iop.org/0004-637X/715/2/1453/
+- Briggs, M.S. et al. (LIGO Scientific Collaboration, Virgo Collaboration),
+  “Search for gravitational waves associated with gamma-ray bursts
+  during LIGO science run 6 and Virgo science runs 2 and 3”,
+  The Astrophysical Journal, Volume 760, Number 1, 2012,
+  http://iopscience.iop.org/0004-637X/760/1/12/
+- Abadie, J. et. al. (LIGO Scientific Collaboration, Virgo Collaboration)
+  “Search for Gravitational Waves from Low Mass Compact Binary Coalescence in LIGO’s Sixth Science
+  Run and Virgo’s Science Runs 2 and 3”
+  Phys.Rev. D, 85, 082002, 2012
+  http://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.082002
