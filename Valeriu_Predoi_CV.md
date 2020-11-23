@@ -1,5 +1,4 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 Curriculum Vitae Dr. Valeriu Predoi
 ===================================
@@ -46,7 +45,8 @@ Work
     (Autoassess), various developments of analysis tools for NCAS scientists
   - Other tasks: provide continuous support for ESMValTool's integration as the standard for
     climate model evaluation (online tutorials, in-situ tutorials and seminars); support for
-    NCAS colleagues at Reading; helpdesk mailing list administrator
+    NCAS colleagues at Reading; helpdesk mailing list administrator; work on emergency software
+    issues (e.g. work on COVID-19 computational models in 2020)
   - Projects: MAGIC (past), CRESCENDO and ISENES3 (current)
   - Line manager: Dr. G. M. S. Lister
 - **04/2014 - 11/2016 Senior Postdoctoral Research Associate**
